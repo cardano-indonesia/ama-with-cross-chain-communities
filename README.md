@@ -16,7 +16,9 @@ This project can help so many people to understand Cardano ecosystem better and 
 
 If funded, the AMA will be held for 3 months: September-November 2022. Date and time will be discussed with community partner. Every AMA will be separated into 2 sections 2 hours; 1 hours material and discussion, 1 hours Q&A session. The AMA could be attended by people from both communities, so they can learn from each other and they can ask questions that could inspire and expand their understanding about each chains.
 
-### Our metrics to measure success are:Provide interactive & good educational AMA
+### Our metrics to measure success are:
+
+- Provide interactive & good educational AMA
 - Introduce Cardano to other chains or community in Indonesia
 - Provide a space for Cardano enthusiasts and also another people from other chains to find each other
 - Connect Indonesian cross-chain communities and learn from each other
